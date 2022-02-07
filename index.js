@@ -84,7 +84,7 @@ function init() {
     .prompt(questions)
     .then(answers => {
         console.log(answers);
-        writeToFile('./dist/README.md', generateMarkdown(answers));
+        writeToFile('README.md', generateMarkdown(answers));
     });
 };
 
