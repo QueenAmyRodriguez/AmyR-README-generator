@@ -23,6 +23,7 @@ Clone the repository down to your local computer and install npm
 It can be used to create a README right from the command line and be modified for any project
 
 ![Command Line Prompt Screenshot](./images/README-Generator.png)
+[Demo Video](https://www.youtube.com/watch?v=p-fYSXSprT8)
 
 ## License
 -------
