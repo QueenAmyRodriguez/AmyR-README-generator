@@ -31,10 +31,10 @@ const questions = [
         message: 'How can your project be used? (Required)'
     },
     {
-        type: 'checkbox',
+        type: 'list',
         name: 'licenses',
         message: 'What license are you using in your project?. (Required)',
-        choices: ['MIT License', 'GNU GPLv3', 'Apache License 2.0', 'None']
+        choices: ['MIT', 'GNU_GPLv3', 'Apache_License_2.0', 'None']
     },
     {
         type: 'input',
