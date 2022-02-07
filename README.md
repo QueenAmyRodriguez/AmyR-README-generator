@@ -1,1 +1,1 @@
-# AmyR-README-generator
+# README-generator
